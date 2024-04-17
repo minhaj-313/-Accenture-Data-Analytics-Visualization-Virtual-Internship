@@ -35,10 +35,8 @@ This project was completed as part of the Accenture North America Data Analytics
 ## Preview Image:
 ![Dashboard Preview](https://github.com/minhaj-313/-Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/main/Dashboard%20-%20Social%20Buzz.png?raw=true)
 
-## Certificate:
-[Certificate](#)
 
-##-----------------------------------------------------------------------------------------------------------------
+## --------------------------------------------------------------------------------------------------------
 
 ## Task - 1
 ### Project Understanding:
